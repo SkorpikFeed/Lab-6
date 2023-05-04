@@ -1,0 +1,8 @@
+﻿  Lab.cpp
+C:\Users\taras\source\repos\Lab 6 C++\Lab 6 C++\Lab.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Strings.cpp
+C:\Users\taras\source\repos\Lab 6 C++\Lab 6 C++\Strings.cpp(4,19): warning C4244: 'return': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\taras\source\repos\Lab 6 C++\Lab 6 C++\Strings.cpp(36,20): warning C4244: 'return': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\taras\source\repos\Lab 6 C++\Lab 6 C++\Strings.cpp(66,20): warning C4244: 'return': conversion from 'unsigned __int64' to 'double', possible loss of data
+  Generating Code...
+  Lab 6 C++.vcxproj -> C:\Users\taras\source\repos\Lab 6 C++\x64\Debug\Lab 6 C++.exe

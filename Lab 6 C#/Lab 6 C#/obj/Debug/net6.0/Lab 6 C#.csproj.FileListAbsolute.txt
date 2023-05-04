@@ -1,0 +1,15 @@
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.csproj.AssemblyReference.cache
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.AssemblyInfoInputs.cache
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.AssemblyInfo.cs
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.csproj.CoreCompileInputs.cache
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\bin\Debug\net6.0\Lab 6 C#.exe
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\bin\Debug\net6.0\Lab 6 C#.deps.json
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\bin\Debug\net6.0\Lab 6 C#.runtimeconfig.json
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\bin\Debug\net6.0\Lab 6 C#.dll
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\bin\Debug\net6.0\Lab 6 C#.pdb
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.dll
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\refint\Lab 6 C#.dll
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.pdb
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\Lab 6 C#.genruntimeconfig.cache
+C:\Users\taras\source\repos\Lab 6 C#\Lab 6 C#\obj\Debug\net6.0\ref\Lab 6 C#.dll
